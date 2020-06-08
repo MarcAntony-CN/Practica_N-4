@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*body{
+    background: url(../imagen/d.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+} */   
+
+.contenedor{
+    width: 1100px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    overflow: hidden;
+}   
+  
+#o{
+    font-size: 30px;
+    color: blue;
+}
+.t{
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+#v{
+    font-size: 30px;
+    color: orangered;
+}
